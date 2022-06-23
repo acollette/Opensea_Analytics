@@ -1,0 +1,12 @@
+Python Source Code: https://levelup.gitconnected.com/how-to-collect-nft-sales-data-using-opensea-api-5a6b9b163f7
+
+To run the script: python script.py -s "2022-03-25 01:20" -e "2022-03-26 02:30"
+
+1. Run script.py with above info
+    Will update data.csv
+
+2. Run csv_to_json file
+    Will update data.json
+
+3. Run most_traded.py   
+    Will update most_traded_data.json
